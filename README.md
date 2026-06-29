@@ -16,9 +16,9 @@
 
 <img align="right" height="200" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
-- 🎓 Pre-final year B.Tech IT student from **Karur**
-- 👩‍💻 Passionate about **Web Development** and **UI/UX**
-- 🌱 Currently learning **DSA**, **C++**, **Java**, and **Spring Boot**
+- 🎓 B.Tech Information Technology Graduate from **Karur**
+- 👩‍💻 Passionate about Full Stack Development and UI/UX Design
+- 🌱 Currently learning **C**, **Java**.
 - 🧠 Built projects in **Flashcard Quiz App**, **Daily mood tracker**, and **Plant Management**
 - 🏆 Completed NPTEL in **Java**
 - 💡 Always exploring, building, and growing 💙
